@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Claude Code: локальные настройки и разрешения (персональные для машины)
+.claude/settings.local.json
+
+# docs/ НЕ игнорируется намеренно: это готовый артефакт курса,
+# его удобно коммитить (например, для GitHub Pages).
